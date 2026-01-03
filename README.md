@@ -41,7 +41,7 @@ single_direction_log_analyzer_using_vpc_id/
 
 Flow Overview:
 
-Set AWS region and hardcoded VPC ID.
+Set AWS region and hardcoded VPC ID.( Can later be changed to obtain VPC private ip automatically )
 
 Use EC2 client to describe flow logs and locate the log group.
 
@@ -103,5 +103,6 @@ SDE Intern – Site24x7 (Zoho Corp)
 Date: 13-06-2025
 
 License:
+
 
 This project is for educational and internal demonstration purposes. All AWS interactions are based on publicly documented APIs.
